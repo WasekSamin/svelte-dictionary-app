@@ -1,0 +1,14 @@
+.word__diffMean > button{
+    position: relative;
+}
+
+.word__diffMean > button::after {
+    content: ", ";
+    position: absolute;
+    top: 0;
+    left: 100%;
+}
+
+.word__diffMean > button:last-child:after {
+    content: "";
+}

@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    /* Fonts */
+    --poppins: 'Poppins', sans-serif;
+    --stone-900: rgb(28 25 23);
+    --green: #03dac6;
+}
+
+body {
+    font-family: var(--poppins);
+    background-color: var(--stone-900);
+    color: white;
+}
+
+.green__border {
+    border-color: var(--green);   
+}
+
+.green__background {
+    background-color: var(--green);
+}
