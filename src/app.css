@@ -5,6 +5,7 @@
 :root {
     /* Fonts */
     --poppins: 'Poppins', sans-serif;
+    /* Colors */
     --stone-900: rgb(28 25 23);
     --green: #03dac6;
 }
