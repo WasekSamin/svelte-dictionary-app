@@ -26,7 +26,7 @@
 </script>
 
 <div class="w-full bg-stone-800 py-3 px-5 md:px-10 lg:px-20 z-[1001]">
-    <div class="w-full max-w-screen-2xl">
+    <div class="w-full max-w-screen-2xl mx-auto">
         <div class="flex items-center justify-between">
             <a href="/">
                 <!-- svelte-ignore a11y-img-redundant-alt -->

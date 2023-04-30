@@ -123,7 +123,7 @@
     }
 </script>
 
-<div class="w-full max-w-screen-2xl px-5 md:px-10 lg:px-20 my-10">
+<div class="w-full max-w-screen-2xl mx-auto px-5 md:px-10 lg:px-20 my-10">
     <div class="w-auto max-w-[800px] mx-auto bg-stone-800 rounded-md p-5 shadow-md">
         <h1 class="text-center font-semibold text-lg sm:text-xl pb-3 border-b border-stone-600 mb-3">Word of Dictionary</h1>
 
